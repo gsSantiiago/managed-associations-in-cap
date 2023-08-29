@@ -2,8 +2,8 @@
   "name": "managed-associations-in-cap",
   "version": "1.0.0",
   "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
-  "license": "UNLICENSED",
+  "repository": "https://github.com/gsSantiiago/managed-associations-in-cap",
+  "license": "ISC",
   "private": true,
   "dependencies": {
     "@sap/cds": "^7",
